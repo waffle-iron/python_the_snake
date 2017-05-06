@@ -2,3 +2,11 @@ LearningPY/.idea/LearningPY.iml
 LearningPY/.idea/modules.xml
 LearningPY/.idea/workspace.xml
 LearningPY/.idea/misc.xml
+Django_Tutorial/.idea/Django_Tutorial.iml
+Django_Tutorial/.idea/misc.xml
+Django_Tutorial/.idea/modules.xml
+Django_Tutorial/.idea/workspace.xml
+Django_Tutorial/django_tutorial/db.sqlite3
+Django_Tutorial/django_tutorial/polls/__pycache__/views.cpython-36.pyc
+Django_Tutorial/django_tutorial/polls/__pycache__/__init__.cpython-36.pyc
+Django_Tutorial/django_tutorial/polls/__pycache__/urls.cpython-36.pyc
